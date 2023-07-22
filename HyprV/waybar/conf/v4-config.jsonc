@@ -12,8 +12,8 @@
         "wlr/workspaces"
     ],
         //"custom/updates" //Put in modules-center to work
+        //"idle_inhibitor"
     "modules-center": [
-        "idle_inhibitor",
         "clock",
     ],
     "modules-right": [
