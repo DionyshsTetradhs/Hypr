@@ -11,10 +11,10 @@
         "custom/lock_screen",
         "wlr/workspaces"
     ],
+        //"custom/updates" //Put in modules-center to work
     "modules-center": [
         "idle_inhibitor",
         "clock",
-        //"custom/updates"
     ],
     "modules-right": [
         "cpu",
